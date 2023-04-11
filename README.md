@@ -21,3 +21,5 @@ Jupyter Notebook) and change the csv filename from "Quotes" to the updated filen
 
 Finally, run your python code.
 
+Smile :)
+
