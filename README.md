@@ -8,7 +8,7 @@ The group created a Python program that generates a random quote each time it is
 This steps below take you through how to add new quotes to the csv file.
 
 **Step 1:**
-Save this respository on your pc by clicking on the "Code" at top-right corner or clone this respository to your profile and save to your pc.
+Save this respository on your pc by clicking on the "Code" at top-right corner or clone this respository to your https://github.com/mafred809/Group-7.git profile and save to your pc.
 
 **Step 2:** 
 Open the csv file marked "Quotes", add your new quotes to the file and save.
