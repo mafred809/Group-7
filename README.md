@@ -6,6 +6,7 @@ The group created a Python program that generates a random quote each time it is
 
 ## To Add New Quotes To The CSV file
 This steps below take you through how to add new quotes to the csv file.
+
 **Step 1:**
 Save this respository on your pc by clicking on the "" or clone this respository to your profile and save to your pc.
 
